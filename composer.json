@@ -1,5 +1,5 @@
 {
-    "name": "atom-api/atom-php",
+    "name": "atom.com/atom-php",
     "description": "PHP SDK for the Atom API Implementation",
     "type": "composer-plugin",
     "license": "Apache-2.0",
