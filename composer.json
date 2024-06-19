@@ -1,0 +1,14 @@
+{
+    "name": "atom-api/atom-php",
+    "description": "PHP SDK for the Atom API Implementation",
+    "type": "composer-plugin",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Atom.com",
+            "email": "ramu@atom.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
